@@ -11,6 +11,4 @@ PgAdmin4
 
 Schema- Music Store Database
 
-
-
-    <img width="710" height="574" alt="image" src="https://github.com/user-attachments/assets/7f6129c8-8976-43e8-a4db-5e3244050f6b" />
+<img width="710" height="574" alt="image" src="https://github.com/user-attachments/assets/7f6129c8-8976-43e8-a4db-5e3244050f6b" />
